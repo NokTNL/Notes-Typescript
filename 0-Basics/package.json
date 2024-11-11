@@ -1,0 +1,6 @@
+{
+  "name": "notes-typescript",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
